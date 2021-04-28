@@ -2,4 +2,6 @@
 
 THis is just for test purpose To learn about git
 
-WOrking Proj
+WOrking Projct
+
+PHP Syntax
